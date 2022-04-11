@@ -2,7 +2,7 @@
 <script> document.cookie = "session=test GDPR"; document.cookie =
 "favorite_task=collect Data"; function alertCookie() { alert(document.cookie); <br> } 
 
-// Exemplul 1
+<br>// Exemplul 1
 document.cookie = "name=oeschger; SameSite=None; Secure";
 document.cookie = "favorite_food=tripe; SameSite=None; Secure";
 
